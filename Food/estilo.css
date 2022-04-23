@@ -1,0 +1,51 @@
+body{
+    background-color: rgba(197, 197, 197, 0.808);
+}
+
+.paragrafo{
+    margin-left: 40%;
+}
+
+.contato{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.quadrado{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.teste{
+    background-image: url(./assets/hamburguer5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: local;
+}
+
+.paragrafo1{
+    color: white;
+}
+
+.slide{
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.paragrafo2{
+    margin-top: 5%;
+    margin-right: 45%;
+}
+
+.teste2{
+    background-image: url(./assets/hamburguer3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: local;
+}
+
+.resolução{
+    max-width: 100%;
+}
+
